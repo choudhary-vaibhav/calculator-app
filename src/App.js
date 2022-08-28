@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import { Card } from './pages/Card';
+import { Calculator } from './pages/Calculator';
 
 function App() {
   return (
-    <Card/>
+    <Calculator/>
   );
 }
 
